@@ -1,0 +1,6 @@
+../lwip/src/core/ipv6/ip6_frag.c:148:1:ip6_reass_free_complete_datagram	64	static
+../lwip/src/core/ipv6/ip6_frag.c:236:1:ip6_reass_remove_oldest_datagram	24	static
+../lwip/src/core/ipv6/ip6_frag.c:695:1:ip6_frag_free_pbuf_custom	8	static
+../lwip/src/core/ipv6/ip6_frag.c:113:1:ip6_reass_tmr	8	static
+../lwip/src/core/ipv6/ip6_frag.c:272:1:ip6_reass	56	static
+../lwip/src/core/ipv6/ip6_frag.c:720:1:ip6_frag	72	static

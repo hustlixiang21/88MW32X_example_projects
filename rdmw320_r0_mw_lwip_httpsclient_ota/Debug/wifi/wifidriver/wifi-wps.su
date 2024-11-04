@@ -1,0 +1,2 @@
+../wifi/wifidriver/wifi-wps.c:45:14:wps_parser	32	static
+../wifi/wifidriver/wifi-wps.c:88:6:check_for_wps_ie	24	static

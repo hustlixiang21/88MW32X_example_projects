@@ -1,0 +1,6 @@
+../drivers/fsl_gpio.h:131:22:GPIO_PortSet	24	static
+../drivers/fsl_gpio.h:145:22:GPIO_PortClear	24	static
+../drivers/fsl_gpio.c:48:6:GPIO_PinInit	24	static
+../drivers/fsl_gpio.c:73:6:GPIO_PinWrite	24	static
+../drivers/fsl_gpio.c:94:6:GPIO_PortToggle	32	static
+../drivers/fsl_gpio.c:113:6:GPIO_PinSetInterruptConfig	32	static

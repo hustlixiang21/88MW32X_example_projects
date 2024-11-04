@@ -1,0 +1,14 @@
+../wifi/wifidriver/wifi_pwrmgr.c:51:6:wifi_set_ps_cfg	8	static
+../wifi/wifidriver/wifi_pwrmgr.c:67:6:wifi_configure_null_pkt_interval	0	static
+../wifi/wifidriver/wifi_pwrmgr.c:73:6:wifi_configure_listen_interval	24	static
+../wifi/wifidriver/wifi_pwrmgr.c:84:5:wifi_send_hs_cfg_cmd	48	static
+../wifi/wifidriver/wifi_pwrmgr.c:157:5:wifi_send_power_save_command	40	static
+../wifi/wifidriver/wifi_pwrmgr.c:180:5:wifi_enter_ieee_power_save	0	static
+../wifi/wifidriver/wifi_pwrmgr.c:185:5:wifi_exit_ieee_power_save	0	static
+../wifi/wifidriver/wifi_pwrmgr.c:190:5:wifi_enter_deepsleep_power_save	16	static
+../wifi/wifidriver/wifi_pwrmgr.c:196:5:wifi_exit_deepsleep_power_save	0	static
+../wifi/wifidriver/wifi_pwrmgr.c:201:5:wifi_uap_ps_inactivity_sleep_enter	56	static
+../wifi/wifidriver/wifi_pwrmgr.c:225:5:wifi_uap_ps_inactivity_sleep_exit	0	static
+../wifi/wifidriver/wifi_pwrmgr.c:230:6:send_sleep_confirm_command	16	static
+../wifi/wifidriver/wifi_pwrmgr.c:252:6:wifi_process_hs_cfg_resp	0	static
+../wifi/wifidriver/wifi_pwrmgr.c:267:24:wifi_process_ps_enh_response	8	static

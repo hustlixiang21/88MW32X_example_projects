@@ -1,0 +1,4 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\drivers/fsl_crc.h:79:20:CRC_SetMode	8	static
+../boot2_partition/crc32.c:71:10:soft_crc32	32	static
+../boot2_partition/crc32.c:89:10:crc32	32	static
+../boot2_partition/crc32.c:104:6:crc32_init	8	static

@@ -1,0 +1,3 @@
+../drivers/fsl_crc.c:37:6:CRC_Init	0	static
+../drivers/fsl_crc.c:47:6:CRC_Deinit	0	static
+../drivers/fsl_crc.c:61:10:CRC_Calculate	12	static

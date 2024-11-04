@@ -1,0 +1,7 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpsclient_ota\wifi\incl\port\os/wm_os.h:296:20:os_thread_sleep	16	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpsclient_ota\wifi\incl\port\os/wm_os.h:317:24:os_msec_to_ticks	8	static
+../wifi/wifidriver/firmware_dnld.c:56:12:wlan_card_fw_status	24	static
+../wifi/wifidriver/firmware_dnld.c:68:13:wlan_card_ready_wait	24	static
+../wifi/wifidriver/firmware_dnld.c:86:9:wlan_download_normal_fw	64	static
+../wifi/wifidriver/firmware_dnld.c:174:16:wlan_set_fw_dnld_size	16	static
+../wifi/wifidriver/firmware_dnld.c:196:9:firmware_download	40	static

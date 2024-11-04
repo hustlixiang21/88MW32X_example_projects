@@ -1,0 +1,15 @@
+../wifi/cli/cli.c:701:6:help_command	32	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_cli\wifi\incl\port\os/wm_os.h:794:19:os_mutex_put.constprop.isra	0	static
+../wifi/cli/cli.c:484:13:cli_main	48	static
+../wifi/cli/cli.c:545:5:cli_install_UART_Tick	12	static
+../wifi/cli/cli.c:550:5:cli_remove_UART_Tick	8	static
+../wifi/cli/cli.c:608:5:cli_start	24	static
+../wifi/cli/cli.c:664:5:cli_get_cmd_buffer	8	static
+../wifi/cli/cli.c:676:5:cli_submit_cmd_buffer	16	static
+../wifi/cli/cli.c:447:13:console_tick	40	static
+../wifi/cli/cli.c:649:5:cli_stop	32	static
+../wifi/cli/cli.c:746:5:cli_register_command	12	static
+../wifi/cli/cli.c:773:5:cli_unregister_command	16	static
+../wifi/cli/cli.c:799:5:cli_register_commands	24	static
+../wifi/cli/cli.c:812:5:cli_unregister_commands	24	static
+../wifi/cli/cli.c:826:5:cli_init	16	static

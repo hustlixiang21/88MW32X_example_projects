@@ -1,0 +1,4 @@
+../source/board_hash.c:38:17:BOARD_GetUninitRamBase	8	static
+../source/board_hash.c:62:17:BOARD_GetUninitNvramBase	8	static
+../source/board_hash.c:81:6:BOARD_GetHash	24	static
+../source/board_hash.c:93:6:SystemInitHook	144	static

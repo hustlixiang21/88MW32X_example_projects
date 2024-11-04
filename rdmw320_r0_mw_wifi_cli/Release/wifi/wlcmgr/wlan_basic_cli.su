@@ -1,0 +1,5 @@
+../wifi/wlcmgr/wlan_basic_cli.c:30:6:test_wfa_wlan_version	144	static
+../wifi/wlcmgr/wlan_basic_cli.c:48:6:test_wlan_version	8	static
+../wifi/wlcmgr/wlan_basic_cli.c:60:13:test_wlan_get_mac_address	32	static
+../wifi/wlcmgr/wlan_basic_cli.c:87:5:wlan_wfa_basic_cli_init	8	static
+../wifi/wlcmgr/wlan_basic_cli.c:104:5:wlan_basic_cli_init	8	static

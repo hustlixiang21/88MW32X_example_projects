@@ -1,0 +1,6 @@
+../source/webconfig.c:273:12:CGI_HandleStatus	2152	static
+../source/webconfig.c:132:12:CGI_HandlePost	2232	static
+../source/webconfig.c:86:12:CGI_HandleGet	2080	static
+../source/webconfig.c:226:12:CGI_HandleReset	160	static
+../source/webconfig.c:323:13:main_task	168	static
+../source/webconfig.c:569:5:main	56	static

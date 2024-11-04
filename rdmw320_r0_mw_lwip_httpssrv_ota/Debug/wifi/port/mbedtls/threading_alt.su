@@ -1,0 +1,9 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:728:19:os_mutex_create	24	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:768:19:os_mutex_get	24	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:794:19:os_mutex_put	24	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:902:19:os_mutex_delete	16	static
+../wifi/port/mbedtls/threading_alt.c:31:13:wmos_wrap_mutex_init	32	static
+../wifi/port/mbedtls/threading_alt.c:44:13:wmos_wrap_mutex_free	16	static
+../wifi/port/mbedtls/threading_alt.c:49:12:wmos_wrap_mutex_lock	16	static
+../wifi/port/mbedtls/threading_alt.c:54:12:wmos_wrap_mutex_unlock	16	static
+../wifi/port/mbedtls/threading_alt.c:59:6:wm_mbedtls_set_threading_alt	8	static

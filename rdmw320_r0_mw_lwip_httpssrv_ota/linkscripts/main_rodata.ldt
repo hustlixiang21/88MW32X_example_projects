@@ -1,0 +1,30 @@
+<#import "RELOCATED_TO_RAM.ldt" as RELOCATED_TO_RAM>
+<#if !LINK_TO_RAM>
+		/* Exclude flash and frequently executed functions from XIP */
+		*(EXCLUDE_FILE(
+			<#list RELOCATED_TO_RAM.FILES as file>
+			*/${file}
+			</#list>
+		) .rodata) /* .rodata sections (constants, strings, etc.) */
+		/* Exclude flash and frequently executed functions from XIP */
+		*(EXCLUDE_FILE(
+			<#list RELOCATED_TO_RAM.FILES as file>
+			*/${file}
+			</#list>
+		) .rodata.*) /* .rodata.* sections (constants, strings, etc.) */
+		/* Exclude flash and frequently executed functions from XIP */
+		*(EXCLUDE_FILE(
+			<#list RELOCATED_TO_RAM.FILES as file>
+			*/${file}
+			</#list>
+		) .constdata) /* .constdata sections (constants, strings, etc.) */
+		/* Exclude flash and frequently executed functions from XIP */
+		*(EXCLUDE_FILE(
+			<#list RELOCATED_TO_RAM.FILES as file>
+			*/${file}
+			</#list>
+		) .constdata.*) /* .constdata.* sections (constants, strings, etc.) */
+		. = ALIGN(${text_align});
+<#else>
+<#include "super@main_rodata.ldt">
+</#if>

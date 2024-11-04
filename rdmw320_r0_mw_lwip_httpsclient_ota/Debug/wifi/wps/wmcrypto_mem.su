@@ -1,0 +1,3 @@
+../wifi/wps/wmcrypto_mem.c:32:7:crypto_mem_malloc	24	static
+../wifi/wps/wmcrypto_mem.c:47:6:crypto_mem_free	16	static
+../wifi/wps/wmcrypto_mem.c:52:7:crypto_mem_calloc	16	static

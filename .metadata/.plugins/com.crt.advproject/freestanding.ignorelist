@@ -1,0 +1,6 @@
+#List of "project<build_config><tool>=state" or "project=state" entries associated to "-ffreestanding"-related markers that are ignored in current workspace.
+#Mon Nov 04 16:56:59 CST 2024
+rdmw320_r0_mw_wifi_webconfig=ignoreUIWarning
+rdmw320_r0_mw_lwip_httpssrv_ota=ignoreUIWarning
+rdmw320_r0_mw_wifi_cli=ignoreUIWarning
+rdmw320_r0_mw_lwip_httpsclient_ota=ignoreUIWarning

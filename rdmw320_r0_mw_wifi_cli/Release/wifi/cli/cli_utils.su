@@ -1,0 +1,10 @@
+../wifi/cli/cli_utils.c:40:5:string_equal	16	static
+../wifi/cli/cli_utils.c:57:9:hexc2bin	0	static
+../wifi/cli/cli_utils.c:83:10:a2hex	16	static
+../wifi/cli/cli_utils.c:106:5:ISDIGIT	16	static
+../wifi/cli/cli_utils.c:149:5:ishexstring	16	static
+../wifi/cli/cli_utils.c:177:10:a2hex_or_atoi	0	static
+../wifi/cli/cli_utils.c:193:5:get_uint	16	static
+../wifi/cli/cli_utils.c:215:5:get_mac	16	static
+../wifi/cli/cli_utils.c:260:6:print_mac	24	static
+../wifi/cli/cli_utils.c:268:5:cli_getopt	24	static

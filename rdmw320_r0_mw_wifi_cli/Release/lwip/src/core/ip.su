@@ -1,0 +1,4 @@
+../lwip/src/core/ip.c:79:7:ipaddr_ntoa	0	static
+../lwip/src/core/ip.c:101:7:ipaddr_ntoa_r	0	static
+../lwip/src/core/ip.c:123:1:ipaddr_aton	0	static
+../lwip/src/core/ip.c:154:1:ip_input	0	static

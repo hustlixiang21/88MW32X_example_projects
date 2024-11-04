@@ -1,0 +1,10 @@
+../boot2_psm/wmtlv.c:31:5:tlv_store_init	8	static
+../boot2_psm/wmtlv.c:49:5:tlv_store_add	24	static
+../boot2_psm/wmtlv.c:68:5:tlv_store_xip_padding	16	static
+../boot2_psm/wmtlv.c:93:5:tlv_store_get	24	static
+../boot2_psm/wmtlv.c:121:5:tlv_store_iterate	16	static
+../boot2_psm/wmtlv.c:144:5:tlv_store_get_ref	20	static
+../boot2_psm/wmtlv.c:170:5:tlv_store_iterate_ref	16	static
+../boot2_psm/wmtlv.c:200:5:tlv_store_close	8	static
+../boot2_psm/wmtlv.c:208:5:tlv_store_validate	16	static
+../boot2_psm/wmtlv.c:237:5:tlv_store_length	0	static

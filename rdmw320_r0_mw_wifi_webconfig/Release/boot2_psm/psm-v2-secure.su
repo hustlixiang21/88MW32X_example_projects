@@ -1,0 +1,8 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_webconfig\wifi\incl\port\os/wm_os.h:1565:21:os_mem_calloc	16	static
+../boot2_psm/psm-v2-secure.c:82:5:psm_security_init	16	static
+../boot2_psm/psm-v2-secure.c:101:5:psm_security_init_with_key	24	static
+../boot2_psm/psm-v2-secure.c:146:6:psm_is_key_present_in_keystore	8	static
+../boot2_psm/psm-v2-secure.c:158:5:psm_key_reset	8	static
+../boot2_psm/psm-v2-secure.c:173:5:psm_encrypt	32	static
+../boot2_psm/psm-v2-secure.c:187:5:psm_decrypt	0	static
+../boot2_psm/psm-v2-secure.c:201:6:psm_security_deinit	16	static

@@ -1,0 +1,8 @@
+../wifi/nw_utils/iperf.c:383:13:display_iperf_usage	8	static
+../wifi/nw_utils/iperf.c:93:13:lwiperf_report	56	static
+../wifi/nw_utils/iperf.c:140:13:iperf_test_start	48	static
+../wifi/nw_utils/iperf.c:298:13:timer_poll_udp_client	0	static
+../wifi/nw_utils/iperf.c:288:13:poll_udp_client	0	static
+../wifi/nw_utils/iperf.c:410:6:cmd_iperf	176	static
+../wifi/nw_utils/iperf.c:678:5:iperf_cli_init	24	static
+../wifi/nw_utils/iperf.c:711:5:iperf_cli_deinit	8	static

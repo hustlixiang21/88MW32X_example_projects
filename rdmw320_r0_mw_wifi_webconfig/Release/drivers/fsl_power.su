@@ -1,0 +1,12 @@
+../drivers/fsl_power.c:359:13:FLASH_PowerDown	0	static
+../drivers/fsl_power.c:185:6:POWER_PowerOnVddioPad	8	static
+../drivers/fsl_power.c:204:6:POWER_PowerOffVddioPad	0	static
+../drivers/fsl_power.c:222:6:POWER_SetVddioPadVolt	8	static
+../drivers/fsl_power.c:252:6:POWER_AttachGpioIrq	8	static
+../drivers/fsl_power.c:269:6:POWER_EnableAonComp	8	static
+../drivers/fsl_power.c:288:6:POWER_DisableAonComp	0	static
+../drivers/fsl_power.c:297:10:POWER_GetAonCompValue	0	static
+../drivers/fsl_power.c:306:6:POWER_SetSleepMode	0	static
+../drivers/fsl_power.c:618:6:asm_mcu_pm3	0	static
+../drivers/fsl_power.c:916:6:POWER_EnterPowerMode	24	static
+../drivers/fsl_power.c:939:6:POWER_TrimBandgapRefVoltage	0	static

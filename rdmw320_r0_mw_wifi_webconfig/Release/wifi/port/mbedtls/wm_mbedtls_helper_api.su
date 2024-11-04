@@ -1,0 +1,2 @@
+../wifi/port/mbedtls/wm_mbedtls_helper_api.c:39:5:wm_mbedtls_lib_init	8	static
+../wifi/port/mbedtls/wm_mbedtls_helper_api.c:55:6:is_wm_mbedtls_lib_init	0	static

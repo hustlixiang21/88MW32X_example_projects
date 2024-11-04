@@ -1,0 +1,2 @@
+../wifi/wifidriver/mlan_uap_ioctl.c:49:13:wlan_uap_snmp_mib_ctrl_deauth	40	static
+../wifi/wifidriver/mlan_uap_ioctl.c:89:13:wlan_ops_uap_ioctl	32	static

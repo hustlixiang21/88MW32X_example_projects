@@ -1,0 +1,16 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\wlcmgr/wlan.h:2605:20:print_mac	40	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\lwip/wm_net.h:198:20:net_inet_ntoa	24	static
+../wpl/wpl_nxp.c:34:12:wlan_event_callback	168	static
+../wpl/wpl_nxp.c:176:5:WPL_Init	48	static
+../wpl/wpl_nxp.c:228:5:WPL_Start	16	static
+../wpl/wpl_nxp.c:245:5:WPL_Stop	16	static
+../wpl/wpl_nxp.c:255:5:WPL_Start_AP	40	static
+../wpl/wpl_nxp.c:313:5:WPL_Stop_AP	16	static
+../wpl/wpl_nxp.c:329:12:WLP_process_results	768	static
+../wpl/wpl_nxp.c:405:5:WPL_Scan	8	static
+../wpl/wpl_nxp.c:413:5:WPL_Join	24	static
+../wpl/wpl_nxp.c:477:5:WPL_Leave	16	static
+../wpl/wpl_nxp.c:493:5:WPL_StartDHCPServer	32	static
+../wpl/wpl_nxp.c:508:5:WPL_StopDHCPServer	8	static
+../wpl/wpl_nxp.c:514:7:WPL_getSSIDs	0	static
+../wpl/wpl_nxp.c:519:5:WPL_GetIP	48	static

@@ -1,0 +1,2 @@
+../source/board_hash.c:81:6:BOARD_GetHash	0	static
+../source/board_hash.c:93:6:SystemInitHook	128	static

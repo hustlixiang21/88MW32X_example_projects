@@ -1,0 +1,4 @@
+../source/cred_flash_storage.c:84:10:init_flash_storage	32	static
+../source/cred_flash_storage.c:127:10:save_wifi_credentials	32	static
+../source/cred_flash_storage.c:166:10:get_saved_wifi_credentials	40	static
+../source/cred_flash_storage.c:237:10:reset_saved_wifi_credentials	8	static

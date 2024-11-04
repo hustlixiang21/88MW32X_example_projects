@@ -1,0 +1,2 @@
+../boot2_partition/boot_flags.c:39:6:boot_init	0	static
+../boot2_partition/boot_flags.c:52:6:boot_report_flags	8	static

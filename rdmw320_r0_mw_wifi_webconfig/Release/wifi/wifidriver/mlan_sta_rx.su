@@ -1,0 +1,2 @@
+../wifi/wifidriver/mlan_sta_rx.c:129:13:wlan_process_rx_packet	16	static
+../wifi/wifidriver/mlan_sta_rx.c:183:13:wlan_ops_sta_process_rx_packet	48	static

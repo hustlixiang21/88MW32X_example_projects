@@ -1,0 +1,2 @@
+../mbedtls/library/timing.c:381:13:busy_msleep	40	static
+../mbedtls/library/timing.c:418:5:mbedtls_timing_self_test	96	static

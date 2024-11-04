@@ -1,0 +1,10 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpsclient_ota\wifi\incl\port\os/wm_os.h:444:19:os_queue_send	32	static
+../wifi/wps/wps.h:125:20:wps_hexdump	16	static
+../wifi/wps/wps_eapol.c:91:12:wps_alloc_eapol	32	static
+../wifi/wps/wps_eapol.c:134:12:wps_ether_send	40	static
+../wifi/wps/wps_eapol.c:153:5:wps_eapol_send	48	static
+../wifi/wps/wps_eapol.c:196:5:wps_eapol_txStart	16	static
+../wifi/wps/wps_eapol.c:217:5:wps_eapol_txPacket	24	static
+../wifi/wps/wps_eapol.c:238:5:wps_eapol_key_txPacket	24	static
+../wifi/wps/wps_eapol.c:259:6:wps_rx_eapol	32	static
+../wifi/wps/wps_eapol.c:279:6:WPSEAPoLRxDataHandler	72	static

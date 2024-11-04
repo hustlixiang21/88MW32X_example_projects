@@ -1,0 +1,8 @@
+../lwip/src/core/ipv6/ip6.c:469:1:ip6_input_accept	16	static
+../lwip/src/core/ipv6/ip6.c:86:1:ip6_route	24	static
+../lwip/src/core/ipv6/ip6.c:283:1:ip6_select_source_address	48	static
+../lwip/src/core/ipv6/ip6.c:509:1:ip6_input	64	static
+../lwip/src/core/ipv6/ip6.c:1179:1:ip6_output_if_src	56	static
+../lwip/src/core/ipv6/ip6.c:1155:1:ip6_output_if	32	static
+../lwip/src/core/ipv6/ip6.c:1297:1:ip6_output	80	static
+../lwip/src/core/ipv6/ip6.c:1409:1:ip6_options_add_hbh_ra	16	static

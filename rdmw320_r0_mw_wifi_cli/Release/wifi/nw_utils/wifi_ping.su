@@ -1,0 +1,4 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_cli\wifi\incl\port\os/wm_os.h:114:24:os_ticks_get	0	static
+../wifi/nw_utils/wifi_ping.c:245:6:cmd_ping	200	static
+../wifi/nw_utils/wifi_ping.c:330:5:ping_cli_init	8	static
+../wifi/nw_utils/wifi_ping.c:343:5:ping_cli_deinit	8	static

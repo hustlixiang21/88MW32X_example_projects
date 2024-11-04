@@ -1,0 +1,15 @@
+../wifi/wps/wps_state.c:367:12:wps_enrollee_state_check	0	static
+../wifi/wps/wps_state.c:303:12:wps_get_message_type	16	static
+../wifi/wps/wps_state.c:3442:6:wps_registration_time_handler	16	static
+../wifi/wps/wps_state.c:287:6:wps_debug_print_msgtype	0	static
+../wifi/wps/wps_state.c:2345:5:wps_registrar_state_check	0	static
+../wifi/wps/wps_state.c:2350:5:wps_registrar_state_transition	0	static
+../wifi/wps/wps_state.c:2363:5:wps_maximum_nack_handler	0	static
+../wifi/wps/wps_state.c:3397:6:wps_start_registration_timer	0	static
+../wifi/wps/wps_state.c:3597:6:wps_reset_wps_state	16	static
+../wifi/wps/wps_state.c:3573:6:wps_eapol_start_handler	16	static
+../wifi/wps/wps_state.c:445:12:wps_enrollee_state_transition.isra	4	static
+../wifi/wps/wps_state.c:2963:5:wps_msg_transmit	24	static
+../wifi/wps/wps_state.c:3416:5:wps_state_machine_start	0	static
+../wifi/wps/wps_state.c:3237:6:wps_txTimer_handler	40	static
+../wifi/wps/wps_state.c:2664:6:wps_message_handler	24	static

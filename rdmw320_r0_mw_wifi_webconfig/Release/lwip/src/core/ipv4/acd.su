@@ -1,0 +1,8 @@
+../lwip/src/core/ipv4/acd.c:118:1:acd_add	16	static
+../lwip/src/core/ipv4/acd.c:153:1:acd_start	8	static
+../lwip/src/core/ipv4/acd.c:181:1:acd_stop	0	static
+../lwip/src/core/ipv4/acd.c:315:1:acd_restart	16	static
+../lwip/src/core/ipv4/acd.c:198:1:acd_network_changed_link_down	8	static
+../lwip/src/core/ipv4/acd.c:211:1:acd_tmr	24	static
+../lwip/src/core/ipv4/acd.c:347:1:acd_arp_reply	32	static
+../lwip/src/core/ipv4/acd.c:496:1:acd_netif_ip_addr_changed	24	static

@@ -1,0 +1,4 @@
+../wifi/cli/cli_mem_simple.c:49:5:cli_mem_cleanup	0	static
+../wifi/cli/cli_mem_simple.c:54:5:cli_mem_init	0	static
+../wifi/cli/cli_mem_simple.c:59:7:cli_mem_malloc	0	static
+../wifi/cli/cli_mem_simple.c:83:5:cli_mem_free	0	static

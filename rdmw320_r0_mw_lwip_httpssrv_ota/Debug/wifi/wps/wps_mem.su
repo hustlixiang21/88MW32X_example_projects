@@ -1,0 +1,3 @@
+../wifi/wps/wps_mem.c:31:7:wps_mem_malloc	24	static
+../wifi/wps/wps_mem.c:49:7:wps_mem_calloc	24	static
+../wifi/wps/wps_mem.c:65:6:wps_mem_free	16	static

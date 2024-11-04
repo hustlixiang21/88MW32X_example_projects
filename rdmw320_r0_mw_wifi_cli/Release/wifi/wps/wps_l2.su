@@ -1,0 +1,5 @@
+../wifi/wps/wps_l2.c:62:6:wps_l2_receive	0	static
+../wifi/wps/wps_l2.c:81:5:wps_l2_get_mac	8	static
+../wifi/wps/wps_l2.c:100:5:wps_l2_send	32	static
+../wifi/wps/wps_l2.c:163:14:wps_l2_init	24	static
+../wifi/wps/wps_l2.c:215:6:wps_l2_deinit	0	static

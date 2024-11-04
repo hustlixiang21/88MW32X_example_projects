@@ -1,0 +1,17 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_cli\wifi\wifidriver\incl/mlan_util.h:127:33:util_peek_list	24	static
+../wifi/wifidriver/mlan_11n.c:632:12:wlan_check_chan_width_ht40_by_region.isra	16	static
+../wifi/wifidriver/mlan_11n.c:339:6:wlan_fill_ht_cap_tlv	24	static
+../wifi/wifidriver/mlan_11n.c:397:6:wlan_show_dot11ndevcap	0	static
+../wifi/wifidriver/mlan_11n.c:461:6:wlan_show_devmcssupport	0	static
+../wifi/wifidriver/mlan_11n.c:481:13:wlan_cmd_recfg_tx_buf	8	static
+../wifi/wifidriver/mlan_11n.c:516:13:wlan_cmd_amsdu_aggr_ctrl	8	static
+../wifi/wifidriver/mlan_11n.c:551:13:wlan_ret_amsdu_aggr_ctrl	0	static
+../wifi/wifidriver/mlan_11n.c:579:13:wlan_cmd_11n_cfg	8	static
+../wifi/wifidriver/mlan_11n.c:607:13:wlan_ret_11n_cfg	0	static
+../wifi/wifidriver/mlan_11n.c:707:7:wlan_cmd_append_11n_tlv	48	static
+../wifi/wifidriver/mlan_11n.c:918:13:wlan_11n_cfg_ioctl	16	static
+../wifi/wifidriver/mlan_11n.c:960:6:wlan_11n_delete_txbastream_tbl_entry	16	static
+../wifi/wifidriver/mlan_11n.c:992:6:wlan_11n_deleteall_txbastream_tbl	16	static
+../wifi/wifidriver/mlan_11n.c:1027:16:wlan_11n_get_txbastream_tbl	24	static
+../wifi/wifidriver/mlan_11n.c:1069:5:wlan_send_addba	40	static
+../wifi/wifidriver/mlan_11n.c:1119:6:wlan_11n_delete_bastream	16	static

@@ -1,0 +1,10 @@
+../source/lwip_httpsclient_ota.c:74:13:printSeparator	0	static
+../source/lwip_httpsclient_ota.c:96:6:wlan_remove_profile	8	static
+../source/lwip_httpsclient_ota.c:254:6:task_main	24	static
+../source/lwip_httpsclient_ota.c:91:13:APP_AES_Unlock	0	static
+../source/lwip_httpsclient_ota.c:79:17:APP_AES_Lock	8	static
+../source/lwip_httpsclient_ota.c:125:6:wlan_connect_profile	8	static
+../source/lwip_httpsclient_ota.c:146:6:wlan_disconnect_profile	8	static
+../source/lwip_httpsclient_ota.c:159:5:wifi_cli_init	8	static
+../source/lwip_httpsclient_ota.c:170:5:wlan_event_callback	56	static
+../source/lwip_httpsclient_ota.c:341:5:main	56	static

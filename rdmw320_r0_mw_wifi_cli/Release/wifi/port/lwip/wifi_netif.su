@@ -1,0 +1,15 @@
+../wifi/port/lwip/wifi_netif.c:113:21:gen_pbuf_from_data	16	static
+../wifi/port/lwip/wifi_netif.c:520:14:mld_mac_filter	24	static
+../wifi/port/lwip/wifi_netif.c:409:14:igmp_mac_filter	24	static
+../wifi/port/lwip/wifi_netif.c:314:14:low_level_output	32	static
+../wifi/port/lwip/wifi_netif.c:64:6:deliver_packet_above	16	static
+../wifi/port/lwip/wifi_netif.c:223:6:handle_data_packet	32	static
+../wifi/port/lwip/wifi_netif.c:231:6:handle_amsdu_data_packet	8	static
+../wifi/port/lwip/wifi_netif.c:243:6:handle_deliver_packet_above	0	static
+../wifi/port/lwip/wifi_netif.c:250:6:wrapper_net_is_ip_or_ipv6	0	static
+../wifi/port/lwip/wifi_netif.c:263:6:low_level_init	32	static
+../wifi/port/lwip/wifi_netif.c:632:7:lwip_netif_init	16	static
+../wifi/port/lwip/wifi_netif.c:675:7:lwip_netif_uap_init	8	static
+../wifi/port/lwip/wifi_netif.c:713:5:wps_low_level_output	32	static
+../wifi/port/lwip/wifi_netif.c:752:6:wps_register_rx_callback	0	static
+../wifi/port/lwip/wifi_netif.c:757:6:wps_deregister_rx_callback	0	static

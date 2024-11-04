@@ -1,0 +1,3 @@
+../boot2_partition/crc32.c:71:10:soft_crc32	8	static
+../boot2_partition/crc32.c:89:10:crc32	8	static
+../boot2_partition/crc32.c:104:6:crc32_init	8	static

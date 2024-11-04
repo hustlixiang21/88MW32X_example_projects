@@ -1,0 +1,5 @@
+../wifi/port/mbedtls/threading_alt.c:54:12:wmos_wrap_mutex_unlock	8	static
+../wifi/port/mbedtls/threading_alt.c:49:12:wmos_wrap_mutex_lock	8	static
+../wifi/port/mbedtls/threading_alt.c:31:13:wmos_wrap_mutex_init	24	static
+../wifi/port/mbedtls/threading_alt.c:44:13:wmos_wrap_mutex_free	8	static
+../wifi/port/mbedtls/threading_alt.c:59:6:wm_mbedtls_set_threading_alt	0	static

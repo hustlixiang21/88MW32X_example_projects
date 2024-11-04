@@ -1,0 +1,5 @@
+../lwip/src/apps/httpsrv/httpsrv.c:31:10:HTTPSRV_init	16	static
+../lwip/src/apps/httpsrv/httpsrv.c:71:6:HTTPSRV_release	8	static
+../lwip/src/apps/httpsrv/httpsrv.c:104:10:HTTPSRV_cgi_write	32	static
+../lwip/src/apps/httpsrv/httpsrv.c:191:10:HTTPSRV_cgi_read	32	static
+../lwip/src/apps/httpsrv/httpsrv.c:244:10:HTTPSRV_ssi_write	4	static

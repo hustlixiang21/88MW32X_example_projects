@@ -1,0 +1,9 @@
+../wifi/wifidriver/mlan_11ac.c:164:13:wlan_get_nss_vht_mcs	16	static
+../wifi/wifidriver/mlan_11ac.c:185:13:wlan_get_nss_num_vht_mcs	16	static
+../wifi/wifidriver/mlan_11ac.c:208:13:wlan_fill_cap_info	24	static
+../wifi/wifidriver/mlan_11ac.c:240:13:wlan_11ac_ioctl_vhtcfg	64	static
+../wifi/wifidriver/mlan_11ac.c:630:7:wlan_convert_mcsmap_to_maxrate	232	static
+../wifi/wifidriver/mlan_11ac.c:770:6:wlan_fill_vht_cap_tlv	48	static
+../wifi/wifidriver/mlan_11ac.c:895:5:wlan_cmd_append_11ac_tlv	48	static
+../wifi/wifidriver/mlan_11ac.c:1050:13:wlan_cmd_11ac_cfg	32	static
+../wifi/wifidriver/mlan_11ac.c:1153:6:wlan_11ac_bandconfig_allowed	8	static

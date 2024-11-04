@@ -1,0 +1,5 @@
+../wifi/wifidriver/mlan_uap_cmdevent.c:50:20:wlan_uap_cmd_ap_config	120	static
+../wifi/wifidriver/mlan_uap_cmdevent.c:319:20:wlan_uap_cmd_sys_configure	56	static
+../wifi/wifidriver/mlan_uap_cmdevent.c:426:20:wlan_uap_cmd_snmp_mib	64	static
+../wifi/wifidriver/mlan_uap_cmdevent.c:529:20:wlan_uap_cmd_sta_deauth	32	static
+../wifi/wifidriver/mlan_uap_cmdevent.c:559:13:wlan_ops_uap_prepare_cmd	48	static

@@ -1,0 +1,2 @@
+../source/gpio.c:53:6:GPIO_IRQHandler	8	static
+../source/gpio.c:66:6:GPIO_Init	16	static

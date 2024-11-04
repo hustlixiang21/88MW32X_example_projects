@@ -1,0 +1,8 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\wifidriver\incl/mlan_util.h:67:22:util_init_list	8	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\wifidriver\incl/mlan_util.h:82:22:util_init_list_head	24	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\wifidriver\incl/mlan_util.h:321:22:util_scalar_init	24	static
+../wifi/wifidriver/mlan_init.c:73:13:wlan_allocate_adapter	8	static
+../wifi/wifidriver/mlan_init.c:97:13:wlan_init_priv	24	static
+../wifi/wifidriver/mlan_init.c:172:8:wlan_init_adapter	16	static
+../wifi/wifidriver/mlan_init.c:264:13:wlan_init_lock_list	40	static
+../wifi/wifidriver/mlan_init.c:306:13:wlan_init_fw	32	static

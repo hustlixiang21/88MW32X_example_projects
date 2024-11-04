@@ -1,0 +1,2 @@
+../wifi/wifidriver/mlan_sta_cmdresp.c:387:13:wlan_ret_802_11_deauthenticate	8	static
+../wifi/wifidriver/mlan_sta_cmdresp.c:430:13:wlan_ops_sta_process_cmdresp	48	static

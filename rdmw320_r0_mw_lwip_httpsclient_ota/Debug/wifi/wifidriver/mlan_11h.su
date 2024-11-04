@@ -1,0 +1,4 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpsclient_ota\wifi\wifidriver\incl/mlan_util.h:67:22:util_init_list	8	static
+../wifi/wifidriver/mlan_11h.c:105:8:wlan_11h_init	32	static
+../wifi/wifidriver/mlan_11h.c:157:8:wlan_11h_priv_init	16	static
+../wifi/wifidriver/mlan_11h.c:189:8:wlan_11h_radar_detect_required	24	static

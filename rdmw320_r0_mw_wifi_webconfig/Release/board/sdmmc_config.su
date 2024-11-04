@@ -1,0 +1,3 @@
+../board/sdmmc_config.c:27:10:BOARD_SDIO_ClockConfig	8	static
+../board/sdmmc_config.c:40:6:BOARD_SDCardDetectInit	0	static
+../board/sdmmc_config.c:49:6:BOARD_SDIO_Config	24	static

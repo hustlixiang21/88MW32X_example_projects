@@ -1,0 +1,4 @@
+../wifi/wps/wps_start.c:94:6:wps_generate_PIN	40	static
+../wifi/wps/wps_start.c:144:5:wps_validate_pin	32	static
+../wifi/wps/wps_start.c:183:5:wps_enrollee_start	40	static
+../wifi/wps/wps_start.c:461:5:wps_registrar_start	0	static

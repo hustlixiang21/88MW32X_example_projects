@@ -1,0 +1,16 @@
+../wifi/dhcpd/dhcp-server.c:59:12:ac_add	12	static
+../wifi/dhcpd/dhcp-server.c:77:17:ac_lookup_mac	16	static
+../wifi/dhcpd/dhcp-server.c:133:13:write_u32	0	static
+../wifi/dhcpd/dhcp-server.c:116:13:ac_valid_ip	16	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_webconfig\wifi\incl\port\os/wm_os.h:794:19:os_mutex_put.constprop	8	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_webconfig\wifi\incl\port\lwip/wm_net.h:138:19:net_get_sock_error.isra	0	static
+../wifi/dhcpd/dhcp-server.c:436:13:dhcp_clean_sockets	8	static
+../wifi/dhcpd/dhcp-server.c:142:5:dhcp_server_lease_timeout	0	static
+../wifi/dhcpd/dhcp-server.c:252:5:dhcp_get_ip_from_mac	8	static
+../wifi/dhcpd/dhcp-server.c:262:5:dhcp_send_response	40	static
+../wifi/dhcpd/dhcp-server.c:460:6:dhcp_server	176	static
+../wifi/dhcpd/dhcp-server.c:563:5:dhcp_create_and_bind_udp_socket	40	static
+../wifi/dhcpd/dhcp-server.c:614:5:dhcp_server_init	16	static
+../wifi/dhcpd/dhcp-server.c:720:5:dhcp_free_allocations	16	static
+../wifi/dhcpd/dhcp-server.c:705:5:dhcp_send_halt	48	static
+../wifi/dhcpd/dhcp-server.c:797:6:dhcp_stat	48	static

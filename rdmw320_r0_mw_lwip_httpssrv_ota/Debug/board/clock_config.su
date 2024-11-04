@@ -1,0 +1,5 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\drivers/fsl_clock.h:531:22:CLOCK_SetMainXtalFreq	8	static
+../board/clock_config.c:25:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:47:13:BOARD_DeinitFlashC	8	static
+../board/clock_config.c:67:13:BOARD_InitFlashC	8	static
+../board/clock_config.c:83:6:BOARD_BootClockRUN	8	static

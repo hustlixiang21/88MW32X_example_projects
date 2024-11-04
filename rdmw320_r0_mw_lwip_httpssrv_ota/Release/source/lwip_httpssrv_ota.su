@@ -1,0 +1,11 @@
+../source/lwip_httpssrv_ota.c:680:6:reboot_timer_callback	0	static
+../source/lwip_httpssrv_ota.c:733:12:cgi_ota_accept	40	static
+../source/lwip_httpssrv_ota.c:686:12:cgi_ota_reboot	48	static
+../source/lwip_httpssrv_ota.c:144:12:ssi_ota_status	16	static
+../source/lwip_httpssrv_ota.c:815:13:main_thread	64	static
+../source/lwip_httpssrv_ota.c:394:16:multipart_read_data.part.0	32	static
+../source/lwip_httpssrv_ota.c:152:12:ssi_disabled_input	8	static
+../source/lwip_httpssrv_ota.c:515:9:validate_update_image	192	static
+../source/lwip_httpssrv_ota.c:558:9:store_update_image	536	static
+../source/lwip_httpssrv_ota.c:589:12:cgi_ota_upload	64	static
+../source/lwip_httpssrv_ota.c:828:5:main	56	static

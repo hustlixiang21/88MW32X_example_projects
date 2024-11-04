@@ -1,0 +1,7 @@
+../mbedtls/port/mw/ksdk_mbedtls.c:40:6:CRYPTO_InitHardware	0	static
+../mbedtls/port/mw/ksdk_mbedtls.c:44:12:internal_entropy_poll	24	static
+../mbedtls/port/mw/ksdk_mbedtls.c:64:12:mbedtls_entropy_remove_source	16	static
+../mbedtls/port/mw/ksdk_mbedtls.c:93:12:internal_entropy_ctr_drbg_setup	24	static
+../mbedtls/port/mw/ksdk_mbedtls.c:126:5:mbedtls_hardware_poll	32	static
+../mbedtls/port/mw/ksdk_mbedtls.c:141:6:mbedtls_hardware_init_hash	16	static
+../mbedtls/port/mw/ksdk_mbedtls.c:158:7:pvPortCalloc	24	static

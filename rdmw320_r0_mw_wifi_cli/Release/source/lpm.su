@@ -1,0 +1,8 @@
+../source/lpm.c:88:6:EXTPIN0_IRQHandler	0	static
+../source/lpm.c:99:6:EXTPIN1_IRQHandler	0	static
+../source/lpm.c:110:6:RTC_IRQHandler	8	static
+../source/lpm.c:123:6:LPM_Init	24	static
+../source/lpm.c:172:6:LPM_Deinit	8	static
+../source/lpm.c:182:6:LPM_SetPowerMode	0	static
+../source/lpm.c:188:10:LPM_GetPowerMode	0	static
+../source/lpm.c:193:10:LPM_WaitForInterrupt	24	static

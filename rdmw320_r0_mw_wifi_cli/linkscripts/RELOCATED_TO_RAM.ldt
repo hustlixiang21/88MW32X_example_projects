@@ -1,0 +1,9 @@
+<#-- Exclude flash and frequently executed functions from XIP #-->
+<#assign FILES = [
+	"fsl_clock.o",
+	"clock_config.o",
+	"fsl_qspi.o",
+	"fsl_flashc.o",
+	"fsl_power.o",
+	"mflash_drv.o"
+]>

@@ -1,0 +1,5 @@
+../drivers/fsl_crc.h:93:20:CRC_Enable	8	static
+../drivers/fsl_crc.h:185:20:CRC_ClearInterruptStatus	8	static
+../drivers/fsl_crc.c:37:6:CRC_Init	8	static
+../drivers/fsl_crc.c:47:6:CRC_Deinit	8	static
+../drivers/fsl_crc.c:61:10:CRC_Calculate	40	static

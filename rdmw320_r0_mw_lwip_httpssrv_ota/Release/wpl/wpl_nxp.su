@@ -1,0 +1,15 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\wlcmgr/wlan.h:2605:20:print_mac	24	static
+../wpl/wpl_nxp.c:329:12:WLP_process_results	760	static
+../wpl/wpl_nxp.c:176:5:WPL_Init	24	static
+../wpl/wpl_nxp.c:228:5:WPL_Start	8	static
+../wpl/wpl_nxp.c:245:5:WPL_Stop	0	static
+../wpl/wpl_nxp.c:255:5:WPL_Start_AP	24	static
+../wpl/wpl_nxp.c:313:5:WPL_Stop_AP	8	static
+../wpl/wpl_nxp.c:405:5:WPL_Scan	8	static
+../wpl/wpl_nxp.c:477:5:WPL_Leave	8	static
+../wpl/wpl_nxp.c:413:5:WPL_Join	24	static
+../wpl/wpl_nxp.c:508:5:WPL_StopDHCPServer	8	static
+../wpl/wpl_nxp.c:514:7:WPL_getSSIDs	0	static
+../wpl/wpl_nxp.c:519:5:WPL_GetIP	48	static
+../wpl/wpl_nxp.c:34:12:wlan_event_callback	144	static
+../wpl/wpl_nxp.c:493:5:WPL_StartDHCPServer	24	static

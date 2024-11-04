@@ -1,0 +1,8 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpsclient_ota\wifi\wifidriver\incl/mlan_main.h:2053:14:wlan_strlen	16	static
+../wifi/wifidriver/mlan_join.c:74:20:wlan_get_common_rates	48	static
+../wifi/wifidriver/mlan_join.c:157:20:wlan_setup_rates_from_bssdesc	56	static
+../wifi/wifidriver/mlan_join.c:194:13:wlan_update_rsn_ie	64	static
+../wifi/wifidriver/mlan_join.c:302:13:wlan_cmd_802_11_associate	104	static
+../wifi/wifidriver/mlan_join.c:675:13:wlan_ret_802_11_associate	56	static
+../wifi/wifidriver/mlan_join.c:828:13:wlan_associate	48	static
+../wifi/wifidriver/mlan_join.c:867:6:wlan_band_to_radio_type	16	static

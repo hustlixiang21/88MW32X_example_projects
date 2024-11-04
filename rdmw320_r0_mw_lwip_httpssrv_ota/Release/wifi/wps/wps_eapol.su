@@ -1,0 +1,6 @@
+../wifi/wps/wps_eapol.c:153:5:wps_eapol_send	40	static
+../wifi/wps/wps_eapol.c:196:5:wps_eapol_txStart	0	static
+../wifi/wps/wps_eapol.c:217:5:wps_eapol_txPacket	0	static
+../wifi/wps/wps_eapol.c:238:5:wps_eapol_key_txPacket	0	static
+../wifi/wps/wps_eapol.c:259:6:wps_rx_eapol	16	static
+../wifi/wps/wps_eapol.c:279:6:WPSEAPoLRxDataHandler	48	static

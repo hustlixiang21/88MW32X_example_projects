@@ -1,0 +1,2 @@
+../wifi/wifidriver/firmware_dnld.c:86:9:wlan_download_normal_fw	56	static
+../wifi/wifidriver/firmware_dnld.c:196:9:firmware_download	40	static

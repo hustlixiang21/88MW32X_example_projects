@@ -1,0 +1,10 @@
+<#import "RELOCATED_TO_RAM.ldt" as RELOCATED_TO_RAM>
+<#if !LINK_TO_RAM>
+
+		/* Explicit placement of flash and frequently executed functions in RAM */
+		<#list RELOCATED_TO_RAM.FILES as file>
+		*/${file}(.text* .rodata .rodata.* .constdata .constdata.*)
+		</#list>
+		
+</#if>
+<#include "super@main_data.ldt">

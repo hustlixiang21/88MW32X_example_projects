@@ -1,0 +1,12 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\drivers/fsl_power.h:313:22:POWER_PowerOnWlan	0	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\drivers/fsl_power.h:321:22:POWER_PowerOffWlan	0	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:296:20:os_thread_sleep	16	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:317:24:os_msec_to_ticks	8	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:1790:20:os_disable_all_interrupts	8	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:1796:20:os_enable_all_interrupts	8	static
+../source/wlan_reset.c:20:13:Setup_RC32M	16	static
+../source/wlan_reset.c:82:13:CLK_Config_Pll	48	static
+../source/wlan_reset.c:114:6:CLK_Init	24	static
+../source/wlan_reset.c:173:13:wlan_power_down_card	8	static
+../source/wlan_reset.c:202:13:wlan_power_up_card	8	static
+../source/wlan_reset.c:230:6:BOARD_WLANPowerReset	8	static

@@ -1,0 +1,3 @@
+../wifi/wifidriver/mlan_11h.c:105:8:wlan_11h_init	16	static
+../wifi/wifidriver/mlan_11h.c:157:8:wlan_11h_priv_init	0	static
+../wifi/wifidriver/mlan_11h.c:189:8:wlan_11h_radar_detect_required	16	static

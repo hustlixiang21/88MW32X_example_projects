@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdk-packages>
+<package hash="1727321918000" path="D:\nxp\MCUXpressoIDE_24.9.25\ide\plugins\com.nxp.mcuxpresso.core.datamodels.resources_24.9.0.202407110857\fragments" schema="manifest-schema/sdk_manifest_v3.3.xsd"/>
+<package hash="1730110595363" path="C:\Users\11946\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_88mw320_xx_xxxx_p2site_2.9.8.2019112514469160413444134532607.zip" schema="manifest-schema/sdk_manifest_v3.14.xsd"/>
+<package hash="1730095462561" path="C:\Users\11946\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_mk64fn1m0xxx12_p2site_2.11.0.2019112514462116572198088826639.zip" schema="manifest-schema/sdk_manifest_v3.14.xsd"/>
+<package hash="1730114598276" path="C:\Users\11946\mcuxpresso\02\SDKPackages\com.nxp.mcuxpresso.sdk.sdk_2.x_rdmw320-r0_p2site_2.9.8.20191125144618075460438574865193.zip" schema="manifest-schema/sdk_manifest_v3.14.xsd"/>
+<package hash="1727321918000" path="D:\nxp\MCUXpressoIDE_24.9.25\ide\plugins\com.nxp.mcuxpresso.core.datamodels.resources_24.9.0.202407110857\override" schema="manifest-schema/sdk_manifest_v3.3.xsd"/>
+</sdk-packages>

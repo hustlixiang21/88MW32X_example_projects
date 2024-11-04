@@ -1,0 +1,5 @@
+../wifi/wifidriver/mlan_sta_ioctl.c:878:20:wlan_sec_ioctl_passphrase	24	static
+../wifi/wifidriver/mlan_sta_ioctl.c:586:6:wlan_get_random_charactor	0	static
+../wifi/wifidriver/mlan_sta_ioctl.c:1041:13:wlan_11d_cfg_ioctl	8	static
+../wifi/wifidriver/mlan_sta_ioctl.c:1087:26:wlan_misc_ioctl_region	16	static
+../wifi/wifidriver/mlan_sta_ioctl.c:1204:13:wlan_ops_sta_ioctl	64	static

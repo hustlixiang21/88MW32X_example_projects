@@ -1,0 +1,12 @@
+../wifi/wps/wps_main.c:197:6:wps_set_device_password_id	12	static
+../wifi/wps/wps_main.c:274:6:wps_generate_nonce_16B	32	static
+../wifi/wps/wps_main.c:301:6:wps_generate_uuid_using_mac_addr	88	static
+../wifi/wps/wps_main.c:514:11:wps_get_private_info	0	static
+../wifi/wps/wps_main.c:519:5:wps_get_local_config_methods	0	static
+../wifi/wps/wps_main.c:626:6:wps_session_deinit	16	static
+../wifi/wps/wps_main.c:664:6:wps_shutdown	0	static
+../wifi/wps/wps_main.c:674:5:wps_connect	32	static
+../wifi/wps/wps_main.c:1311:5:wps_stop	16	static
+../wifi/wps/wps_main.c:1050:5:wps_start	32	static
+../wifi/wps/wps_main.c:1242:5:wps_init	64	static
+../wifi/wps/wps_main.c:741:13:wps_main	32	static

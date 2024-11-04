@@ -1,0 +1,6 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpsclient_ota\wifi\incl\port\os/wm_os.h:296:20:os_thread_sleep	16	static
+../wifi/wps/wps_l2.c:62:6:wps_l2_receive	24	static
+../wifi/wps/wps_l2.c:81:5:wps_l2_get_mac	16	static
+../wifi/wps/wps_l2.c:100:5:wps_l2_send	56	static
+../wifi/wps/wps_l2.c:163:14:wps_l2_init	40	static
+../wifi/wps/wps_l2.c:215:6:wps_l2_deinit	16	static

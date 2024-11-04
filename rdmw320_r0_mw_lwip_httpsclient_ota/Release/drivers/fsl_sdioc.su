@@ -1,0 +1,7 @@
+../drivers/fsl_sdioc.c:388:6:SDIOC_TransferHandleIRQ	24	static
+../drivers/fsl_sdioc.c:63:10:SDIOC_SetTransferConfig	20	static
+../drivers/fsl_sdioc.c:138:6:SDIOC_Init	16	static
+../drivers/fsl_sdioc.c:166:6:SDIOC_Deinit	8	static
+../drivers/fsl_sdioc.c:221:6:SDIOC_TransferCreateHandle	24	static
+../drivers/fsl_sdioc.c:265:10:SDIOC_TransferDMANonBlocking	12	static
+../drivers/fsl_sdioc.c:414:6:SDIO_DriverIRQHandler	8	static

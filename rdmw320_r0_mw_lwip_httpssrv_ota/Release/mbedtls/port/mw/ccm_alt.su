@@ -1,0 +1,8 @@
+../mbedtls/port/mw/ccm_alt.c:157:12:ccm_auth_crypt	120	static
+../mbedtls/port/mw/ccm_alt.c:57:6:mbedtls_ccm_init	0	static
+../mbedtls/port/mw/ccm_alt.c:63:5:mbedtls_ccm_setkey	24	static
+../mbedtls/port/mw/ccm_alt.c:109:6:mbedtls_ccm_free	0	static
+../mbedtls/port/mw/ccm_alt.c:329:5:mbedtls_ccm_star_encrypt_and_tag	56	static
+../mbedtls/port/mw/ccm_alt.c:365:5:mbedtls_ccm_encrypt_and_tag	20	static
+../mbedtls/port/mw/ccm_alt.c:387:5:mbedtls_ccm_star_auth_decrypt	72	static
+../mbedtls/port/mw/ccm_alt.c:448:5:mbedtls_ccm_auth_decrypt	20	static

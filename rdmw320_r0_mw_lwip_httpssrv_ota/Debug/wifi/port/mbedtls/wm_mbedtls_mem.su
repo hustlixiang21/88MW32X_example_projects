@@ -1,0 +1,4 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:1565:21:os_mem_calloc	24	static
+../wifi/port/mbedtls/wm_mbedtls_mem.c:32:14:wmos_wrap_calloc	16	static
+../wifi/port/mbedtls/wm_mbedtls_mem.c:37:13:wmos_wrap_free	16	static
+../wifi/port/mbedtls/wm_mbedtls_mem.c:42:5:wm_mbedtls_set_mem_alloc	8	static

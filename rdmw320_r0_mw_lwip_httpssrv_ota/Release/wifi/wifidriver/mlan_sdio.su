@@ -1,0 +1,11 @@
+../wifi/wifidriver/mlan_sdio.c:170:13:SDIOCARD_DetectCallBack	0	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:768:19:os_mutex_get.constprop	8	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:794:19:os_mutex_put.constprop.isra	0	static
+../wifi/wifidriver/mlan_sdio.c:174:13:SDIO_CardInterruptCallBack	0	static
+../wifi/wifidriver/mlan_sdio.c:44:5:sdio_drv_creg_read	16	static
+../wifi/wifidriver/mlan_sdio.c:66:5:sdio_drv_creg_write	40	static
+../wifi/wifidriver/mlan_sdio.c:90:5:sdio_drv_read	40	static
+../wifi/wifidriver/mlan_sdio.c:130:5:sdio_drv_write	40	static
+../wifi/wifidriver/mlan_sdio.c:180:6:sdio_enable_interrupt	0	static
+../wifi/wifidriver/mlan_sdio.c:263:6:sdio_drv_deinit	8	static
+../wifi/wifidriver/mlan_sdio.c:270:5:sdio_drv_init	16	static

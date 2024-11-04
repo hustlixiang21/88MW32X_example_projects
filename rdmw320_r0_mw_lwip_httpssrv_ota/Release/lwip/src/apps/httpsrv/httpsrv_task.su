@@ -1,0 +1,6 @@
+../lwip/src/apps/httpsrv/httpsrv_task.c:801:20:httpsrv_ses_set_state	0	static
+../lwip/src/apps/httpsrv/httpsrv_task.c:270:13:httpsrv_ses_free	8	static
+../lwip/src/apps/httpsrv/httpsrv_task.c:343:13:httpsrv_ses_close	8	static
+../lwip/src/apps/httpsrv/httpsrv_task.c:169:13:httpsrv_session_task	32	static
+../lwip/src/apps/httpsrv/httpsrv_task.c:385:6:httpsrv_http_process	48	static
+../lwip/src/apps/httpsrv/httpsrv_task.c:39:6:httpsrv_server_task	40	static

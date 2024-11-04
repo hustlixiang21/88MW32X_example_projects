@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE infoList
+  SYSTEM "crt_infolist.dtd">
+<infoList vendor="NXP">
+   <info name="device_88MW320_xx_xxxx" chip="device_88MW320_xx_xxxx">
+      <chip>
+         <name>device_88MW320_xx_xxxx</name>
+         <family>88MW32X</family>
+         <vendor>NXP</vendor>
+         <memory id="Flash"
+                 type="Flash"
+                 size="0"
+                 is_ro="true"
+                 can_program="true"/>
+         <memory id="RAM" type="RAM" size="512"/>
+         <memoryInstance id="SRAM_CODE"
+                         derived_from="RAM"
+                         location="0x00100000"
+                         size="0x0005efc0"/>
+         <memoryInstance id="SRAM_SYS"
+                         derived_from="RAM"
+                         location="0x20000000"
+                         size="0x00020000"/>
+         <memoryInstance id="SRAM_RES"
+                         derived_from="RAM"
+                         location="0x0015efc0"
+                         size="0x00001040"/>
+      </chip>
+      <processor>
+         <name gcc_name="cortex-m4">Cortex-M4</name>
+         <family>Cortex-M</family>
+      </processor>
+   </info>
+</infoList>

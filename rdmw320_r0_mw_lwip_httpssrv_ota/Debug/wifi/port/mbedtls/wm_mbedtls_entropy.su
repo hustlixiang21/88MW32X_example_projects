@@ -1,0 +1,4 @@
+../wifi/port/mbedtls/wm_mbedtls_entropy.c:43:13:get_random_sequence_1	32	static
+../wifi/port/mbedtls/wm_mbedtls_entropy.c:56:12:wm_wrap_entropy_poll	24	static
+../wifi/port/mbedtls/wm_mbedtls_entropy.c:64:27:wm_mbedtls_get_ctr_drbg_ctx	0	static
+../wifi/port/mbedtls/wm_mbedtls_entropy.c:69:5:wm_mbedtls_entropy_ctr_drbg_setup	32	static

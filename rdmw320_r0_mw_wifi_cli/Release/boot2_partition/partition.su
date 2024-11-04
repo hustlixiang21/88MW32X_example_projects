@@ -1,0 +1,11 @@
+../boot2_partition/partition.c:101:5:part_init	16	static
+../boot2_partition/partition.c:125:5:part_write_layout	24	static
+../boot2_partition/partition.c:165:6:part_to_flash_desc	0	static
+../boot2_partition/partition.c:172:25:part_get_layout_by_id	20	static
+../boot2_partition/partition.c:192:25:part_get_layout_by_name	32	static
+../boot2_partition/partition.c:212:25:part_get_active_partition	0	static
+../boot2_partition/partition.c:221:25:part_get_active_partition_by_name	24	static
+../boot2_partition/partition.c:230:25:part_get_passive_partition	0	static
+../boot2_partition/partition.c:239:25:part_get_passive_partition_by_name	24	static
+../boot2_partition/partition.c:256:5:part_set_active_partition	24	static
+../boot2_partition/partition.c:277:6:part_is_flash_desc_within_one_partition	16	static

@@ -1,0 +1,14 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_cli\wifi\incl\wlcmgr/wlan.h:2605:20:print_mac	24	static
+../source/main.c:105:13:printSeparator	0	static
+../source/main.c:263:13:mcuPowerMode	16	static
+../source/main.c:231:13:wlanDeepSleep	8	static
+../source/main.c:186:13:wlanIeeePowerSave	16	static
+../source/main.c:355:5:wlan_event_callback	128	static
+../source/main.c:599:6:task_main	40	static
+../source/main.c:122:13:APP_AES_Unlock	0	static
+../source/main.c:110:17:APP_AES_Lock	8	static
+../source/main.c:175:13:resetProfile	8	static
+../source/main.c:154:13:loadProfile	544	static
+../source/main.c:127:13:saveProfile	544	static
+../source/main.c:294:6:vPortSuppressTicksAndSleep	24	static
+../source/main.c:703:5:main	16	static

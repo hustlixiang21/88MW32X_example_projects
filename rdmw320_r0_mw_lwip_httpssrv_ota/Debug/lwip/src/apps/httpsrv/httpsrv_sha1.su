@@ -1,0 +1,4 @@
+../lwip/src/apps/httpsrv/httpsrv_sha1.c:56:6:SHA1_Transform	32	static
+../lwip/src/apps/httpsrv/httpsrv_sha1.c:175:6:SHA1_Init	8	static
+../lwip/src/apps/httpsrv/httpsrv_sha1.c:187:6:SHA1_Update	32	static
+../lwip/src/apps/httpsrv/httpsrv_sha1.c:215:6:SHA1_Final	32	static

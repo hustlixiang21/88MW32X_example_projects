@@ -1,0 +1,14 @@
+../drivers/fsl_rtc.c:96:6:RTC_GetDefaultConfig	8	static
+../drivers/fsl_rtc.c:122:10:RTC_GetCounter	0	static
+../drivers/fsl_rtc.c:141:10:RTC_SetAlarm	0	static
+../drivers/fsl_rtc.c:155:10:RTC_GetAlarm	0	static
+../drivers/fsl_rtc.c:167:6:RTC_EnableInterrupts	0	static
+../drivers/fsl_rtc.c:179:6:RTC_DisableInterrupts	0	static
+../drivers/fsl_rtc.c:192:10:RTC_GetEnabledInterrupts	0	static
+../drivers/fsl_rtc.c:205:10:RTC_GetStatusFlags	0	static
+../drivers/fsl_rtc.c:221:6:RTC_ClearStatusFlags	0	static
+../drivers/fsl_rtc.c:231:6:RTC_StartTimer	0	static
+../drivers/fsl_rtc.c:247:6:RTC_StopTimer	0	static
+../drivers/fsl_rtc.c:74:6:RTC_Deinit	8	static
+../drivers/fsl_rtc.c:263:6:RTC_ResetTimer	0	static
+../drivers/fsl_rtc.c:36:6:RTC_Init	16	static

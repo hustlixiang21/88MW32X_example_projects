@@ -1,0 +1,5 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_webconfig\mbedtls\include/mbedtls/ssl_internal.h:662:35:mbedtls_ssl_own_key	0	static
+../mbedtls/library/ssl_cli.c:2039:12:ssl_check_server_ecdh_params	16	static
+../mbedtls/library/ssl_cli.c:2164:12:ssl_write_encrypted_pms	56	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_wifi_webconfig\mbedtls\include/mbedtls/ssl_internal.h:717:22:mbedtls_ssl_hs_hdr_len.isra	0	static
+../mbedtls/library/ssl_cli.c:3515:5:mbedtls_ssl_handshake_client_step	152	static

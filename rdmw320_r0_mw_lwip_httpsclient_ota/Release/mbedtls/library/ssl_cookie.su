@@ -1,0 +1,7 @@
+../mbedtls/library/ssl_cookie.c:134:12:ssl_cookie_hmac	48	static
+../mbedtls/library/ssl_cookie.c:79:6:mbedtls_ssl_cookie_init	8	static
+../mbedtls/library/ssl_cookie.c:92:6:mbedtls_ssl_cookie_set_timeout	0	static
+../mbedtls/library/ssl_cookie.c:97:6:mbedtls_ssl_cookie_free	8	static
+../mbedtls/library/ssl_cookie.c:108:5:mbedtls_ssl_cookie_setup	48	static
+../mbedtls/library/ssl_cookie.c:161:5:mbedtls_ssl_cookie_write	32	static
+../mbedtls/library/ssl_cookie.c:207:5:mbedtls_ssl_cookie_check	80	static

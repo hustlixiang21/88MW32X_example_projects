@@ -1,0 +1,6 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:226:19:os_thread_create	40	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:260:19:os_thread_delete	16	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:296:20:os_thread_sleep	16	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\incl\port\os/wm_os.h:317:24:os_msec_to_ticks	8	static
+../wifi/dhcpd/dhcp-server-main.c:44:5:dhcp_server_start	32	static
+../wifi/dhcpd/dhcp-server-main.c:65:6:dhcp_server_stop	8	static

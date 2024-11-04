@@ -1,0 +1,8 @@
+../lwip/src/apps/httpsrv/httpsrv_tls.c:18:19:httpsrv_tls_init	40	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:124:6:httpsrv_tls_release	16	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:151:12:httpsrv_mbedtls_send	32	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:160:12:httpsrv_mbedtls_recv	32	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:172:20:httpsrv_tls_socket	32	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:221:6:httpsrv_tls_shutdown	16	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:244:5:httpsrv_tls_recv	32	static
+../lwip/src/apps/httpsrv/httpsrv_tls.c:260:9:httpsrv_tls_send	32	static

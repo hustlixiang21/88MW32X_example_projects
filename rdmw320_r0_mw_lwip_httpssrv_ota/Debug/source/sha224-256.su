@@ -1,0 +1,9 @@
+../source/sha224-256.c:230:5:SHA256Reset	16	static
+../source/sha224-256.c:254:5:SHA256Input	24	static
+../source/sha224-256.c:300:5:SHA256FinalBits	24	static
+../source/sha224-256.c:347:5:SHA256Result	16	static
+../source/sha224-256.c:368:12:SHA224_256Reset	8	static
+../source/sha224-256.c:411:13:SHA224_256ProcessMessageBlock	312	static
+../source/sha224-256.c:490:13:SHA224_256Finalize	24	static
+../source/sha224-256.c:526:13:SHA224_256PadMessage	16	static
+../source/sha224-256.c:584:12:SHA224_256ResultN	32	static

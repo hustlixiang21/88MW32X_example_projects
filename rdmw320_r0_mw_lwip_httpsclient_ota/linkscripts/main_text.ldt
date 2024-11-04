@@ -1,0 +1,12 @@
+<#import "RELOCATED_TO_RAM.ldt" as RELOCATED_TO_RAM>
+<#if !LINK_TO_RAM>
+		/* Exclude flash and frequently executed functions from XIP */
+		*(EXCLUDE_FILE(
+			<#list RELOCATED_TO_RAM.FILES as file>
+			*/${file}
+			</#list>
+		) .text*)	/* .text* sections (code) */
+		
+<#else>
+<#include "super@main_text.ldt">
+</#if>

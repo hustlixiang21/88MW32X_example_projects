@@ -1,0 +1,1 @@
+../mbedtls/library/entropy_poll.c:180:5:mbedtls_hardclock_poll	24	static

@@ -1,0 +1,17 @@
+../drivers/fsl_qspi.c:55:10:QSPI_GetInstance	0	static
+../drivers/fsl_qspi.c:119:6:QSPI_GetDefaultConfig	8	static
+../drivers/fsl_qspi.c:144:6:QSPI_Deinit	0	static
+../drivers/fsl_qspi.c:153:6:QSPI_SoftwareReset	0	static
+../drivers/fsl_qspi.c:172:10:QSPI_FlushFIFO	8	static
+../drivers/fsl_qspi.c:199:6:QSPI_SetHeaderCount	0	static
+../drivers/fsl_qspi.c:78:6:QSPI_Init	16	static
+../drivers/fsl_qspi.c:217:6:QSPI_SetSSEnable	0	static
+../drivers/fsl_qspi.c:239:6:QSPI_StartTransfer	0	static
+../drivers/fsl_qspi.c:263:6:QSPI_StopTransfer	0	static
+../drivers/fsl_qspi.c:297:6:QSPI_WriteByte	0	static
+../drivers/fsl_qspi.c:313:9:QSPI_ReadByte	0	static
+../drivers/fsl_qspi.c:333:6:QSPI_WriteWord	0	static
+../drivers/fsl_qspi.c:349:10:QSPI_ReadWord	0	static
+../drivers/fsl_qspi.c:366:6:QSPI_SetDmaTransferConfig	0	static
+../drivers/fsl_qspi.c:387:6:QSPI_WriteBlocking	0	static
+../drivers/fsl_qspi.c:411:6:QSPI_ReadBlocking	0	static

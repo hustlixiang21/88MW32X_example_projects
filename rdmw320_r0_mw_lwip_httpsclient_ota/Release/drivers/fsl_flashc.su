@@ -1,0 +1,17 @@
+../drivers/fsl_flashc.c:37:10:FLASHC_GetInstance	0	static
+../drivers/fsl_flashc.c:96:6:FLASHC_Deinit	0	static
+../drivers/fsl_flashc.c:105:6:FLASHC_GetDefaultConfig	8	static
+../drivers/fsl_flashc.c:132:6:FLASHC_SetTimingConfig	8	static
+../drivers/fsl_flashc.c:61:6:FLASHC_Init	8	static
+../drivers/fsl_flashc.c:160:10:FLASHC_FlushCache	8	static
+../drivers/fsl_flashc.c:188:6:FLASHC_EnableCacheHitCounter	0	static
+../drivers/fsl_flashc.c:206:6:FLASHC_EnableCacheMissCounter	0	static
+../drivers/fsl_flashc.c:225:6:FLASHC_GetCacheCounter	0	static
+../drivers/fsl_flashc.c:241:6:FLASHC_ResetCacheCounter	0	static
+../drivers/fsl_flashc.c:255:6:FLASHC_EnableOffsetAddr	0	static
+../drivers/fsl_flashc.c:268:10:FLASHC_ExitDualContReadMode	8	static
+../drivers/fsl_flashc.c:311:10:FLASHC_ExitQuadContReadMode	8	static
+../drivers/fsl_flashc.c:354:10:FLASHC_EnableQSPIPad	8	static
+../drivers/fsl_flashc.c:426:6:FLASHC_EnableFLASHCPad	8	static
+../drivers/fsl_flashc.c:509:6:FLASH_SetReadModeCmd	0	static
+../drivers/fsl_flashc.c:498:6:FLASH_SetQuadModeReadCmd	0	static

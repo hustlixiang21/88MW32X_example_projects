@@ -1,0 +1,3 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\wifidriver\incl/mlan_main.h:2121:22:wlan_get_priv_by_id	24	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\wifi\wifidriver\incl/mlan_main.h:2148:22:wlan_get_priv	16	static
+../wifi/wifidriver/mlan_txrx.c:62:13:wlan_handle_rx_packet	32	static

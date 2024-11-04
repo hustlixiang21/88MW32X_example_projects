@@ -1,0 +1,6 @@
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\drivers/fsl_power.h:196:26:POWER_GetResetCause	0	static
+E:\MCUXpressoIDE_24.9.25\88MW32X\rdmw320_r0_mw_lwip_httpssrv_ota\drivers/fsl_power.h:205:22:POWER_ClearResetCause	16	static
+../boot2_partition/boot_flags.h:87:24:boot_store_reset_cause	16	static
+../boot2_partition/boot_flags.h:94:24:boot_reset_cause	0	static
+../boot2_partition/boot_flags.c:39:6:boot_init	8	static
+../boot2_partition/boot_flags.c:52:6:boot_report_flags	8	static

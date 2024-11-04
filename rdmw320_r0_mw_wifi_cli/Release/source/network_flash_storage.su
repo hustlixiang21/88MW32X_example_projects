@@ -1,0 +1,4 @@
+../source/network_flash_storage.c:82:10:init_flash_storage	32	static
+../source/network_flash_storage.c:124:10:save_wifi_network	40	static
+../source/network_flash_storage.c:144:10:get_saved_wifi_network	40	static
+../source/network_flash_storage.c:199:10:reset_saved_wifi_network	8	static

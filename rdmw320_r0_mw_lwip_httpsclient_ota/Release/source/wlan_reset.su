@@ -1,0 +1,2 @@
+../source/wlan_reset.c:114:6:CLK_Init	32	static
+../source/wlan_reset.c:230:6:BOARD_WLANPowerReset	16	static
